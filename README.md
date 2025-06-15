@@ -48,10 +48,6 @@ Sugestões de melhoria, correções ou novas funcionalidades são bem-vindas! Fi
 ## 📧 Contato
 
 Se quiser trocar ideias ou tiver dúvidas:
-
-- [Seu Nome]
-- [Seu e-mail ou LinkedIn, opcional]
-
 ---
 
 **Organize, planeje e declare seu imposto de renda com mais tranquilidade!**
